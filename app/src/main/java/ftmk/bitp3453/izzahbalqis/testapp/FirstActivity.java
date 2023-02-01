@@ -1,4 +1,4 @@
-package ftmk.bitp3453.izzahbalqis.testapp;
+/**package ftmk.bitp3453.izzahbalqis.testapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 

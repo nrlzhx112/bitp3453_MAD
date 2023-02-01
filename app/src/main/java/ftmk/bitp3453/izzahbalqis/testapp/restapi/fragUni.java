@@ -1,4 +1,4 @@
-package ftmk.bitp3453.izzahbalqis.testapp.restapi;
+/**package ftmk.bitp3453.izzahbalqis.testapp.restapi;
 import android.os.Bundle;
 import android.text.method.ScrollingMovementMethod;
 import android.view.LayoutInflater;
